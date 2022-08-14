@@ -141,7 +141,7 @@ body {
 
 }
 
-@media screen and (max-width: 1640px) and (min-width: 812px) {
+@media screen and (max-width: 1840px) and (min-width: 812px) {
     .grid-div {
         display: flex;
         margin-right: 50px;
