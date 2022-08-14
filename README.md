@@ -23,8 +23,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/myspace8/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [View live site](https://myspace8.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 
 ### Built with
